@@ -1,11 +1,11 @@
-##  How to Run the To-Do App
+##  How to Run
 
-Follow the steps below to run the React-based To-Do App on your local machine:
+Follow the steps below to run the React-based Tic-tac-toe on your local machine:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/todo-app.git
-cd todo-app
+git clone https://github.com/<your-username>/tic-tac-toe.git
+cd tic-tac-toe
 ```
 # 2. Install dependencies
 ```bash
